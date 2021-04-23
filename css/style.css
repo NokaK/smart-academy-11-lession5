@@ -1,0 +1,36 @@
+h1 {
+	background-color: red;
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+}
+.wrapper-image {
+	width: 200px;
+	vertical-align: middle;
+}
+.text {
+	width: 300px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left : 50px;
+}
+.navbar li {
+	background-color: purple;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+.navbar .navbar-li {
+	background-color: green;
+}
+.wrapper, .block {
+	display: inline-block;
+}
+.container {
+	max-width: 1200px;
+	width: 100%;
+	margin: 20px auto;
+	background-color: pink;
+}
+.navbar {
+	display: inline-block;
+}
